@@ -1,6 +1,6 @@
 class myClass:
 
-    __privatevar = 27;
+    __privatevar = 22;
     def __privMeth(self):
         print("im inside my myClass")
     def hello(self):
